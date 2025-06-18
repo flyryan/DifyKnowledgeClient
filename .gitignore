@@ -1,6 +1,7 @@
 # Secrets and local configuration
 .env
 CLAUDE.md
+Knowledge_API_Dify.md
 
 # Python
 __pycache__/
