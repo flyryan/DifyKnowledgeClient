@@ -5,8 +5,6 @@
 
 An interactive Python client for managing [Dify](https://dify.ai/) Knowledge Bases through the API. This client provides a user-friendly command-line interface to interact with all features of the Dify Knowledge API.
 
-<img src="https://github.com/user-attachments/assets/placeholder-demo.gif" alt="Demo" width="600">
-
 ## ✨ Features
 
 - **🗄️ Knowledge Base Management**: Create, list, update, and delete knowledge bases
@@ -23,7 +21,7 @@ An interactive Python client for managing [Dify](https://dify.ai/) Knowledge Bas
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DifyKnowledgeClient.git
+git clone https://github.com/flyryan/DifyKnowledgeClient.git
 cd DifyKnowledgeClient
 
 # Install dependencies
@@ -147,7 +145,7 @@ DifyKnowledgeClient/
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ### Development Setup
 
@@ -170,13 +168,13 @@ pip install -e .
 
 ### Getting Help
 
-- 📋 [Report Issues](https://github.com/yourusername/DifyKnowledgeClient/issues)
-- 💬 [Discussions](https://github.com/yourusername/DifyKnowledgeClient/discussions)
+- 📋 [Report Issues](https://github.com/flyryan/DifyKnowledgeClient/issues)
+- 💬 [Discussions](https://github.com/flyryan/DifyKnowledgeClient/discussions)
 - 📚 [Dify Documentation](https://docs.dify.ai/)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
